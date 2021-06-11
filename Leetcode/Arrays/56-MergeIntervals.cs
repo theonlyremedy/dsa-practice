@@ -1,3 +1,6 @@
+https://leetcode.com/problems/merge-intervals/
+// 56 : Merge Intervals
+// Difficulty : Medium
 public class Solution {
     public int[][] Merge(int[][] intervals) {
         if(intervals.Length <= 1)
